@@ -1,0 +1,13 @@
+names:
+- car
+- Van 
+- person
+- Tram
+- Cyclist
+- Truck
+
+nc: 6
+
+train: /Users/corneliuspaardekooper/Dropbox/Research/Datasets/Kitti (YOLO Format) (Classes Removed) (Train:Test:Val)/training/images
+test: /Users/corneliuspaardekooper/Dropbox/Research/Datasets/Kitti (YOLO Format) (Classes Removed) (Train:Test:Val)/testing/images
+val: /Users/corneliuspaardekooper/Dropbox/Research/Datasets/Kitti (YOLO Format) (Classes Removed) (Train:Test:Val)/val/images
